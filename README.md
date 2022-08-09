@@ -9,10 +9,10 @@ This repo contain tensorflow2 keras implementation of [Sparse Attention with Lin
 You may need to install "einops" library first.
 Use it as an ordinary keras layers.
 
+
 ## Library:
-'''
 pip install einops
-'''
+
 
 ## Citation:
 ```

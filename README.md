@@ -7,7 +7,7 @@ This is not the official repo, too.
 This repo contain tensorflow2 keras implementation of [Sparse Attention with Linear Units](https://arxiv.org/abs/2104.07012).
 
 You may need to install "einops" library first.
-Use it as an ordinary keras layers.
+Use it as an ordinary tensorflow2 keras layers.
 
 
 ## Library:
